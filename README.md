@@ -1,4 +1,4 @@
-# Inven BS
+# Inventaris Farmasi UMMADA Cirebon
 
 Aplikasi inventaris barang sekolah menggunakan Framework Laravel 10. Aplikasi ini cocok untuk digunakan untuk di sekolah.
 
@@ -60,57 +60,11 @@ _Daftar Peran dan Hak Akses_
 _Verifikasi Barang_
 ![Image 11](https://i.imgur.com/EQWaOtl.jpeg)
 
-### Langkah-langkah instalasi
-
--   Clone repository ini
-
+### Thanks To
 ```bash
 $ git clone https://github.com/mrizkimaulidan/inven-bs.git
 ```
 
--   Install seluruh packages yang dibutuhkan
-
-```bash
-$ composer install
-```
-
--   Siapkan database dan atur file .env sesuai dengan konfigurasi Anda
-
--   Masukan nama sekolah pada konfigurasi .env untuk menampilkan nama sekolah pada print barang. Berikan tanda kutip jika nama sekolah mengandung spasi
-
-Contoh:
-
-```
-NAMA_SEKOLAH="SD Negeri 001 Ciledug"
-```
-
--   Jika sudah, migrate seluruh migrasi dan seeding data
-
-```bash
-$ php artisan migrate --seed
-```
-
--   Jalankan local server
-
-```
-$ php artisan serve
-```
-
--   User default aplikasi untuk login
-
-Administrator
-
-```
-Email       : admin@mail.com
-Password    : secret
-```
-
-Staff TU (Tata Usaha)
-
-```
-Email       : stafftu@mail.com
-Password    : secret
-```
 
 ### Dibuat dengan
 
