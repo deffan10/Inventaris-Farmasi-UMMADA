@@ -62,10 +62,11 @@ _Verifikasi Barang_
 
 ### Thanks To
 ```bash
-$ git clone https://github.com/mrizkimaulidan/inven-bs.git
+https://github.com/mrizkimaulidan/inven-bs.git
 ```
 
 
 ### Dibuat dengan
 
 -   [Laravel](https://laravel.com) - Web Framework
+
